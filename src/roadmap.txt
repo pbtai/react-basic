@@ -1,0 +1,20 @@
+1. Components & JSX: 🧱 Triết lý "LEGO" để xây dựng giao diện.
+(Header.js, Myinfo.js, App.js)
+
+2. Props: 🎁 Gửi dữ liệu từ ngoài vào (cha -> con).
+(Header.js, Myinfo.js, App.js)
+
+3. State (useState): ⏳ Quản lý dữ liệu bên trong component, làm nó có tính tương tác.
+(Header.js, Myinfo.js, Counter.js, App.js)
+
+4. Events (onClick, onChange): ⚡ Cách component "phản ứng" với người dùng.
+(Header.js, Myinfo.js, Counter.js, App.js)
+
+5. Lists (.map): 📋 Hiển thị danh sách dữ liệu.
+(ListUsingMap.js, App.js)
+
+6. Forms (Controlled Components): ⌨️ Lấy dữ liệu từ người dùng.
+(ControlComponent.js, App.js)
+
+7. Side Effects (useEffect) (Tải dữ liệu 📥 & Dọn dẹp 🧹)
+(HookUseEffect.js, FetchDataUseEffect.js, CleanupUseEffect.js, App.js)
